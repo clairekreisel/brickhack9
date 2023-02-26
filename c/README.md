@@ -1,7 +1,8 @@
-# Acoustic Simulation
+# Embedded Transducer Control
 
-Uses TUSX (https://github.com/ianheimbuch/tusx) and k-Wave (http://www.k-wave.org/) to perform an acoustic simulation of the effects of an ultrasound transducer on the skull and brain.
+Allows for controlling ultrasonic transducer to fit experiment parameters as in the following image.
 
-Human CT data from the TUSX GitHub.
+![image](../assets/USExperiment.jpg)
+
 ---
 [[<- Back](../README.md)]
